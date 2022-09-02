@@ -1,7 +1,7 @@
 # root module
 
 terraform {
-  required_version = ">=0.14"
+  required_version = "~> 1.1"
 
   required_providers {
     aws = {
